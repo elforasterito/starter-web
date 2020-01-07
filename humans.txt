@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    ElForas foras@foras.com Elforas
 
 # THANKS
 
