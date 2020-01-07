@@ -12,7 +12,7 @@ Sample website with plenty of files for demos
 
 ## Deployment
 
-Instructions to deploy this website
+Instructions to deploy this website. Adding from another branch.
 
 ## How To Contribute
 
